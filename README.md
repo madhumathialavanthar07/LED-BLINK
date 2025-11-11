@@ -58,14 +58,11 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 5.The corresponding .ioc file will be generated automatically.
     <img width="1704" height="1023" alt="m5" src="https://github.com/user-attachments/assets/5f94c4f0-ac16-48fa-9488-2edefced726c" />
-
 6. The corresponding `.ioc` file will be generated automatically.
    <img width="1702" height="1017" alt="m6" src="https://github.com/user-attachments/assets/982ddf6e-c0ef-4465-a270-e972a49ab227" />
    <img width="1706" height="1016" alt="m66" src="https://github.com/user-attachments/assets/0a89a8c7-1607-430c-a89e-ee6322a6a1a0" />
-
 7.Save the configuration (Ctrl + S) – the base C program will be generated automatically.
     <img width="1706" height="1025" alt="m7" src="https://github.com/user-attachments/assets/0a869ce5-294a-40ee-8731-901faba5c242" />
-
 8.Edit the generated main program as required.
      <img width="1919" height="1199" alt="m8" src="https://github.com/user-attachments/assets/7f14094d-ebf3-4b23-8030-bdf3d89b5515" />
      <img width="1919" height="1199" alt="m88" src="https://github.com/user-attachments/assets/c1d7cb24-741b-43d1-9bd4-57b7dcbf97ff" />
@@ -73,10 +70,8 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 9. Click Project → Build All.
 
       <img width="958" height="242" alt="m9" src="https://github.com/user-attachments/assets/333caf3a-471b-47ab-88af-dd042030e695" />
-
 10.Link the HEX file using the post-build process.
       <img width="1919" height="1199" alt="m10" src="https://github.com/user-attachments/assets/0ae0bdc7-1900-4021-bd27-edd4f6a5b237" />
-
 11. Edit the generated main program as required.
        <img width="1914" height="1199" alt="m11" src="https://github.com/user-attachments/assets/1a9d4497-3108-4078-aae9-e9edc5139dc7" />
 
